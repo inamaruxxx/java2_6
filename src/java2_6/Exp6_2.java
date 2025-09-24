@@ -13,5 +13,6 @@ public class Exp6_2 {
 				n = 3 * n + 1; // 奇数なら 3 倍して 1 を足す
 			}
 		}
+		System.out.println("1になるまでに"+step+"回の操作をしました");
 	}
 }
